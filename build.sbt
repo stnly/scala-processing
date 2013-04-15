@@ -1,12 +1,13 @@
-import AssemblyKeys._ // put this at the top of the file
+import AssemblyKeys._
 
 assemblySettings
 
 name := "scala-processing"
 
-version := "1.0"
+version := "0.0.1"
 
 scalaVersion := "2.10.1"
 
 fork in run := true
+
 
