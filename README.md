@@ -1,7 +1,7 @@
 Processing in Scala
 ===================
 
-Template project for developing [Processing](http://www.processing.org) with [Scala](http://www.scala-lang.org) and [IntelliJ IDEA](www.jetbrains.com/idea/)
+Template project for developing [Processing](http://www.processing.org) with [Scala](http://www.scala-lang.org) and [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 
     $ git clone git@github.com:stnly/scala-processing.git
     $ cd scala-processing
